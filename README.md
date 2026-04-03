@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is the source code for my personal portfolio website, [alan-khalili.com](https://alan-khalili.com). The website showcases my programming skills and experience through various sections, including an introductory greeting, a marquee displaying my GitHub repositories, an experience section, a projects section, and a contact form.
+This is the source code for my personal portfolio website, [aadipathak.com]((https://www.aadipathak.com/)). The website showcases my programming skills and experience through various sections, including an introductory greeting, a marquee displaying my GitHub repositories, an experience section, a projects section, and a contact form.
 
 ## Features
 
